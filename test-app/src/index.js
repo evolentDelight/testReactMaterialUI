@@ -4,13 +4,20 @@ import './index.css';
 import App from './App';
 import Dashboard from "./pages/Dashboard"
 import reportWebVitals from './reportWebVitals';
+import NavBar from './components/navbar/navbar.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Dashboard />
+    <NavBar />
   </React.StrictMode>
 );
+
+/*
+<React.StrictMode>
+    <Dashboard />
+  </React.StrictMode>
+*/
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

@@ -1,3 +1,6 @@
+# Implement NavBar
+/components/navbar
+
 # Dashboard template
 
 ## Usage
