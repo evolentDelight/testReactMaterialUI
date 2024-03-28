@@ -23,7 +23,7 @@ export const mainListItems = (
       <ListItemIcon>
         <AccountBoxIcon />
       </ListItemIcon>
-      <ListItemText primary="Profile" />
+      <ListItemText primary="Profile"/>
     </ListItemButton>
     <ListItemButton>
       <ListItemIcon>
