@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import Dashboard from "./pages/Dashboard"
+//import App from './App';
+//import Dashboard from "./pages/Dashboard"
 import reportWebVitals from './reportWebVitals';
 import MainNavBar from './components/mainNavBar/mainNavBar.js';
 
@@ -14,7 +14,7 @@ root.render(
 );
 
 /*
-<React.StrictMode>
+  <React.StrictMode>
     <Dashboard />
   </React.StrictMode>
 */
